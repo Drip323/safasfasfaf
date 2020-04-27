@@ -1,0 +1,19 @@
+{
+  "name": "Drip Bot",
+  "version": "1.0.0",
+  "description": "Cip 2.0's Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cip",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^5.2.4",
+    "fs": "0.0.2",
+    "ms": "^2.1.1",
+    "npm": "^6.4.1",
+    "noblox.js": "^4.3.0"
+  }
+}
